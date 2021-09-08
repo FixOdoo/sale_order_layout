@@ -1,0 +1,167 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sale_report_layout
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-08 06:59+0000\n"
+"PO-Revision-Date: 2021-09-08 06:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sale_report_layout
+#: model:ir.actions.report,print_report_name:sale_report_layout.action_sale_quotation
+msgid "'Sale Quotation - %s' % (object.name)"
+msgstr "'報價單 - %s' % (object.name)"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid "<span class=\"pl-2\">E-mail:</span>"
+msgstr "<span class=\"pl-2\">電郵:</span>"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid ""
+"<span groups=\"account.group_show_line_subtotals_tax_excluded\">Amount</span>\n"
+"                                            <span groups=\"account.group_show_line_subtotals_tax_included\">Total Price</span>"
+msgstr ""
+"<span groups=\"account.group_show_line_subtotals_tax_excluded\">總數</span>\n"
+"                                            <span groups=\"account.group_show_line_subtotals_tax_included\">總價</span>"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid ""
+"<span style=\"font-size:16px\">Accepted &amp; Confirmed By</span>\n"
+"                                <br/>"
+msgstr ""
+"<span style=\"font-size:16px\">接受及確認</span>\n"
+"                                <br/>"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid ""
+"<span style=\"font-size:16px\">For and on behalf of</span>\n"
+"                                <br/>"
+msgstr ""
+"<span style=\"font-size:16px\">代表</span>\n"
+"                                <br/>"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid "<span>Authorised Signature</span>"
+msgstr "<span>授權簽名</span>"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid "<span>Disc.%</span>"
+msgstr "<span>折扣(%)</span>"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid "<span>Tel:</span>"
+msgstr "<span>電話:</span>"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid "<strong class=\"mr16\">Total</strong>"
+msgstr "<strong class=\"mr16\">總共</strong>"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid ""
+"<strong>\n"
+"                            <span style=\"font-size:20px\">Quotation</span>\n"
+"                        </strong>"
+msgstr ""
+"<strong>\n"
+"                            <span style=\"font-size:20px\">報價單</span>\n"
+"                        </strong>"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid "Address"
+msgstr "地址"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid "Authorised Signature"
+msgstr "授權簽名"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid "Customer"
+msgstr "客戶"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid "Date"
+msgstr "日期"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid "Description"
+msgstr "描述"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid "Email"
+msgstr "電郵"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid "Logo"
+msgstr "Logo"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid ""
+"Page:\n"
+"                    <span class=\"page\"/>\n"
+"                    of\n"
+"                    <span class=\"topage\"/>"
+msgstr ""
+"頁數:\n"
+"                    <span class=\"page\"/>\n"
+"                    /\n"
+"                    <span class=\"topage\"/>"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid "Quantity"
+msgstr "數量"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid "Quo. No."
+msgstr "報價單編號"
+
+#. module: sale_report_layout
+#: model:ir.actions.report,name:sale_report_layout.action_sale_quotation
+msgid "Sale Quotation"
+msgstr "報價單"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.external_layout_sale_quotation
+msgid "Telephone"
+msgstr "電話"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid "Terms &amp; Conditions:"
+msgstr "條款及細則"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid "Unit"
+msgstr "單位"
+
+#. module: sale_report_layout
+#: model_terms:ir.ui.view,arch_db:sale_report_layout.report_sale_quotation
+msgid "Unit Price"
+msgstr "單價"
