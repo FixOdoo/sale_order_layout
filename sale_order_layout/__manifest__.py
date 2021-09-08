@@ -6,6 +6,7 @@
     'website': "https://fixodoo.com",
     'category': 'Uncategorized',
     'version': '0.1',
+    "license": "OPL-1",
     'depends': ['base', 'sale', 'company_cop'],
     'data': [
         # 'security/ir.model.access.csv',
